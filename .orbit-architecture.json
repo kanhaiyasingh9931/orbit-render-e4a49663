@@ -1,0 +1,6 @@
+{
+  "type": "STATIC",
+  "frontend": {
+    "path": "src"
+  }
+}
